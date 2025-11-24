@@ -187,10 +187,10 @@ const bootcampData = {
     ],
     links:  {
         googleCalendar: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FMadrid&src=Y18zMDQ4MjU4NDYxYWE5MTk2YzE3YjgyNDc4OTk5NDk2MzNjNzMzZDk4MzhlZjFhZTQ1YzMzZTQ5ZDRkZGU5ZGZmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285F4",
-        zoom: "https://us02web.zoom.us/j/84219607621",
-        classroom: "https://classroom.google.com/c/NzQ1NDc4OTU1MzQ4?cjc=qhpavje",
-        discord: "https://discord.gg/u54GR4D3",
-        github: "https://github.com/Factoria-F5-dev"
+        zoom: "https://zoom.us/j/94929140529",
+        classroom: "https://classroom.google.com/c/ODMwODM3MDA1ODQ4?cjc=nfsehxde",
+        discord: "https://discord.gg/Pn2vdm6M",
+        github: "https://github.com/Bootcamp-IA-P6"
     },
     competencies: [
         {
